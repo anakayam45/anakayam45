@@ -1,9 +1,19 @@
 ## Gak tau mo ngisi apa 🗿
 
-lagi belajar 🤓
+![pelajar](https://img.shields.io/badge/Student_of-Universitas_Darwan_Ali-red)
+
+selesai belajar 🗣
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Nodejs-454?style=for-the-badge&logo=Node.js&logoColor=yellow)
+
+dan lanjut belajar 🤓
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-de2314?style=for-the-badge&logo=keras)
+![Tensorflow](https://img.shields.io/badge/Keras-eaeaea?style=for-the-badge&logo=Tensorflow)
+
+![Dart](https://img.shields.io/badge/Dart-0075ba?style=for-the-badge&logo=Dart)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 
