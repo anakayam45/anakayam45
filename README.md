@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-# Gak tau mo ngisi apa 🗿
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asep123&layout=compact&theme=radical)
+
+### Gak tau mo ngisi apa 🗿
 
 <!--
 **anakayam45/anakayam45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
