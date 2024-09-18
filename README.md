@@ -11,7 +11,7 @@ dan lanjut belajar 🤓
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-de2314?style=for-the-badge&logo=keras)
-![Tensorflow](https://img.shields.io/badge/Keras-eaeaea?style=for-the-badge&logo=Tensorflow)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-eaeaea?style=for-the-badge&logo=Tensorflow)
 
 ![Dart](https://img.shields.io/badge/Dart-0075ba?style=for-the-badge&logo=Dart)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
