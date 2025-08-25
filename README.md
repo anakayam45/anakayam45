@@ -1,4 +1,4 @@
-<h1 align="center">Halo, Saya Jamal 👋</h1>
+<h1 align="center">Halo, Saya Jumail Ilham 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Student_of-Universitas_Darwan_Ali-red" alt="Universitas Darwan Ali Badge">
@@ -29,7 +29,7 @@ Sebagai seorang mahasiswa dari **Universitas Darwan Ali**, saya memiliki gairah 
 Berikut adalah beberapa proyek yang saya banggakan:
 
 * **[Dataset Gunting Batu kertas](https://github.com/anakayam45/dataset_gunting_batu_kertas)** - Dataset yang saya kumpulkan secara mandiri untuk membangun sebuah model ML yang bisa bermain Gunting batu kertas, menggunakan **Tensorflow** dan **Gradio** agar bisa berinteraksi secara langsung.
-* **[Instagram image downloader]([link-ke-repositori-proyek-2](https://github.com/anakayam45/Instagram-image-downloader))** - _Ilegal si sebenarnya_, Jadi ini aplikasi untuk mendownload foto dari Instagram, hanya menggunakan element **HTML** dan **Javascript** sederhana.
+* **[Instagram image downloader](https://github.com/anakayam45/Instagram-image-downloader)** - _Ilegal si sebenarnya_, Jadi ini aplikasi untuk mendownload foto dari Instagram, hanya menggunakan element **HTML** dan **Javascript** sederhana.
 
 ---
 ### 📚 Sedang Saya Pelajari
