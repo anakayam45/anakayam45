@@ -28,8 +28,8 @@ Sebagai seorang mahasiswa dari **Universitas Darwan Ali**, saya memiliki gairah 
 
 Berikut adalah beberapa proyek yang saya banggakan:
 
-* **[Dataset Gunting Batu kertas](link-ke-repositori-proyek-1)** - Dataset yang saya kumpulkan secara mandiri untuk membangun sebuah model ML yang bisa bermain Gunting batu kertas, menggunakan **Tensorflow** dan **Gradio** agar bisa berinteraksi secara langsung.
-* **[Instagram downloader](link-ke-repositori-proyek-2)** - _Ilegal si sebenarnya_, Jadi ini aplikasi untuk mendownload foto dari Instagram, hanya menggunakan element **HTML** dan **Javascript** sederhana.
+* **[Dataset Gunting Batu kertas](https://github.com/anakayam45/dataset_gunting_batu_kertas)** - Dataset yang saya kumpulkan secara mandiri untuk membangun sebuah model ML yang bisa bermain Gunting batu kertas, menggunakan **Tensorflow** dan **Gradio** agar bisa berinteraksi secara langsung.
+* **[Instagram image downloader]([link-ke-repositori-proyek-2](https://github.com/anakayam45/Instagram-image-downloader))** - _Ilegal si sebenarnya_, Jadi ini aplikasi untuk mendownload foto dari Instagram, hanya menggunakan element **HTML** dan **Javascript** sederhana.
 
 ---
 ### 📚 Sedang Saya Pelajari
