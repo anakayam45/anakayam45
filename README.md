@@ -24,7 +24,14 @@ Sebagai seorang mahasiswa dari **Universitas Darwan Ali**, saya memiliki gairah 
 | **Database** | ![SQL](https://img.shields.io/badge/SQL-4479A2?style=for-the-badge&logo=mysql&logoColor=white) |
 
 ---
+### 🚀 Proyek Unggulan
 
+Berikut adalah beberapa proyek yang saya banggakan:
+
+* **[Dataset Gunting Batu kertas](link-ke-repositori-proyek-1)** - Dataset yang saya kumpulkan secara mandiri untuk membangun sebuah model ML yang bisa bermain Gunting batu kertas, menggunakan **Tensorflow** dan **Gradio** agar bisa berinteraksi secara langsung.
+* **[Instagram downloader](link-ke-repositori-proyek-2)** - _Ilegal si sebenarnya_, Jadi ini aplikasi untuk mendownload foto dari Instagram, hanya menggunakan element **HTML** dan **Javascript** sederhana.
+
+---
 ### 📚 Sedang Saya Pelajari
 
 > Selalu haus akan pengetahuan baru.
